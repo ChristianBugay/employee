@@ -1,0 +1,9 @@
+{
+  nome: "Teste Auto",
+  cpf: "654.347.720-24",
+  sexo: "Feminino",
+  admissao: "11/01/2021",
+  cargo: "QA",
+  salario: "900000",
+  tipoContratacao: "clt"
+}

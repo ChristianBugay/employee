@@ -1,0 +1,14 @@
+# Plataform
+default: --no-source --color --format pretty --format html --out=reports/features_report.html
+api_log: -p http_log -p api
+
+# Reports
+json_report: --format pretty --format json --out=report/rubocop.html.json
+
+# Logs
+http_log: HTTP_LOG=true
+
+# Browsers
+firefox: BROWSER=firefox
+chrome: BROWSER=chrome
+internet_explorer: BROWSER=internet_explorer

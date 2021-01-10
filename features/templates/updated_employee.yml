@@ -1,0 +1,10 @@
+{
+  nome: "Teste Auto",
+  nome_alterado: "Rapaz Updated",
+  cpf: "654.347.720-24",
+  sexo: "Masculino",
+  admissao: "15/02/2021",
+  cargo: "QU",
+  salario: "150000",
+  tipoContratacao: "pj"
+}
